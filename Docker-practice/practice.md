@@ -8,4 +8,4 @@ Docker is an open platform for developing, shipping, and running applications.
 
 ### Docker Architecture
 Earlier docker architecture had only two components
-![preview](./Images/docker2.webp)
+![preview](./Images/docker02.PNG)
