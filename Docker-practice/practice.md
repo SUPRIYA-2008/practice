@@ -120,6 +120,11 @@ once the contianer is created runc makes shim the parent of container, this help
 ![preview](./Images/docker20.PNG)
 ![preview](./Images/docker21.PNG)
 
+### Docker container can be executed in 3 ways
+1. detached
+2. attached
+3. interactive
+
 
 
 
