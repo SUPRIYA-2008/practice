@@ -121,9 +121,22 @@ once the contianer is created runc makes shim the parent of container, this help
 ![preview](./Images/docker21.PNG)
 
 ### Docker container can be executed in 3 ways
-1. detached
-2. attached
-3. interactive
+1. attached : goes inside the container and does exit  
+2. detached : runs the container 
+3. interactive : runs the container and goes inside it
+
+* $ docker container run nginx
+![preview](./Images/docker22.PNG)
+* $ docker container run -d --name jen jenkins/jenkins
+![preview](./Images/docker23.PNG)
+* $ docker container run -it --name alp alpine /bin/sh
+![preview](./Images/docker24.PNG)
+
+### manual steps of ruuing an application
+
+
+
+
 
 
 
